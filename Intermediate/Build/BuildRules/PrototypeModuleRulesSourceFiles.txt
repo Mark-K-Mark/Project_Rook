@@ -1,0 +1,2 @@
+C:\Users\keiji matsumoto\Desktop\日本ゲーム大賞_プロジェクト\Prototype\Intermediate\Source\Prototype.Build.cs
+C:\Users\keiji matsumoto\Desktop\日本ゲーム大賞_プロジェクト\Prototype\Intermediate\Source\Prototype.Target.cs

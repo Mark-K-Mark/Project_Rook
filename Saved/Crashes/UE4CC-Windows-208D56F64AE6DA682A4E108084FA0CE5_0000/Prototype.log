@@ -1,0 +1,1231 @@
+﻿Log file open, 03/05/19 23:20:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.222810
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.817s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.089s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.03.05-14.20.40:923][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.40:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.03.05-14.20.40:924][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.03.05-14.20.40:925][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.03.05-14.20.40:926][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.40:926][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.40:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.03.05-14.20.40:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.03.05-14.20.40:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.03.05-14.20.40:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.03.05-14.20.40:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.03.05-14.20.40:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.03.05-14.20.40:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.03.05-14.20.40:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.05-14.20.40:936][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.03.05-14.20.40:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.03.05-14.20.40:937][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.05-14.20.40:937][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.05-14.20.41:063][  0]LogHAL: Display: Platform has ~ 8 GB [8494374912 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.05-14.20.41:063][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.03.05-14.20.41:064][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.05-14.20.41:064][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:2]]
+[2019.03.05-14.20.41:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.4]]
+[2019.03.05-14.20.41:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:0]]
+[2019.03.05-14.20.41:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.03.05-14.20.41:065][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.2]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:300]]
+[2019.03.05-14.20.41:066][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.Upscale.Quality:1]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.6]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:0]]
+[2019.03.05-14.20.41:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:24]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.03.05-14.20.41:068][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.DetailMode:0]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:0 ; Low quality]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.SSS.Scale:0]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.125]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.03.05-14.20.41:069][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Scalability.ini]
+[2019.03.05-14.20.41:069][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2019.03.05-14.20.41:070][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2019.03.05-14.20.41:070][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.03.05-14.20.41:072][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.03.05-14.20.41:072][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Config/Windows/Engine.ini]
+[2019.03.05-14.20.41:073][  0]LogInit: Computer: DESKTOP-J9BLR6N
+[2019.03.05-14.20.41:073][  0]LogInit: User: keijimatsumoto
+[2019.03.05-14.20.41:073][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.03.05-14.20.41:073][  0]LogInit: High frequency timer resolution =2.648440 MHz
+[2019.03.05-14.20.41:075][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.03.05-14.20.41:075][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.05-14.20.41:075][  0]LogMemory: Process Physical Memory: 102.93 MB used, 102.93 MB peak
+[2019.03.05-14.20.41:076][  0]LogMemory: Process Virtual Memory: 92.59 MB used, 92.59 MB peak
+[2019.03.05-14.20.41:076][  0]LogMemory: Physical Memory: 6593.66 MB used,  1507.20 MB free, 8100.87 MB total
+[2019.03.05-14.20.41:076][  0]LogMemory: Virtual Memory: 4637.03 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.03.05-14.20.41:189][  0]LogInit: Using OS detected language (ja-JP).
+[2019.03.05-14.20.41:189][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.03.05-14.20.41:193][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.03.05-14.20.41:966][  0]LogStreaming: Display: Took  0.777s to InitEngineTextLocalization.
+[2019.03.05-14.20.41:966][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.05-14.20.42:036][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.05-14.20.42:036][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.05-14.20.42:522][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.05-14.20.42:522][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.05-14.20.42:535][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.03.05-14.20.42:535][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.03.05-14.20.42:538][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.05-14.20.42:538][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.05-14.20.42:538][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.05-14.20.42:567][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.05-14.20.42:567][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.05-14.20.42:567][  0]LogWindows: EnumDisplayDevices:
+[2019.03.05-14.20.42:568][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.03.05-14.20.42:568][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.03.05-14.20.42:568][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.03.05-14.20.42:568][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.03.05-14.20.42:568][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.03.05-14.20.42:568][  0]LogD3D11RHI:   Driver Version: 21.20.16.4550 (internal:21.20.16.4550, unified:21.20.16.4550)
+[2019.03.05-14.20.42:568][  0]LogD3D11RHI:      Driver Date: 11-11-2016
+[2019.03.05-14.20.42:569][  0]LogRHI: Texture pool is 1507 MB (70% of 2153 MB)
+[2019.03.05-14.20.42:940][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.03.05-14.20.42:941][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.05-14.20.42:961][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.03.05-14.20.46:985][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.05-14.20.47:072][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.05-14.20.47:166][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.05-14.20.47:227][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.05-14.20.47:368][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.05-14.20.47:493][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.05-14.20.47:579][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.05-14.20.47:670][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.05-14.20.47:751][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.05-14.20.48:203][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.05-14.20.48:464][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.05-14.20.48:464][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.05-14.20.48:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.05-14.20.48:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.05-14.20.48:707][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.05-14.20.48:768][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.05-14.20.48:854][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.05-14.20.49:121][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.05-14.20.49:563][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.05-14.20.49:563][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.05-14.20.49:563][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.05-14.20.50:764][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Intermediate/Shaders/WorkingDirectory/73856/).
+[2019.03.05-14.20.50:765][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/keiji matsumoto/AppData/Local/Temp/UnrealShaderWorkingDir/1A87D5C54EACABBFE7E2B7871DB379CD/'.
+[2019.03.05-14.20.50:800][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.05-14.20.50:800][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.05-14.20.50:800][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.05-14.20.59:359][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.05-14.20.59:539][  0]LogDerivedDataCache: Loaded boot cache 0.18s 87MB C:/Users/keiji matsumoto/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.05-14.20.59:539][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/keiji matsumoto/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.03.05-14.20.59:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.05-14.20.59:539][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.05-14.20.59:539][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.05-14.20.59:540][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.05-14.20.59:605][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.05-14.20.59:605][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.05-14.20.59:606][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.03.05-14.20.59:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/keiji matsumoto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.05-14.20.59:622][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.05-14.20.59:622][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.05-14.20.59:729][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.05-14.20.59:733][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.05-14.20.59:800][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.05-14.21.02:892][  0]LogAssetRegistry: FAssetRegistry took 0.0876 seconds to start up
+[2019.03.05-14.21.04:119][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.05-14.21.04:976][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.05-14.21.05:104][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.05-14.21.05:104][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.05-14.21.05:104][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.05-14.21.05:104][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.05-14.21.05:177][  0]LogNetVersion: Prototype 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 218305487)
+[2019.03.05-14.21.07:022][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.484236 seconds
+[2019.03.05-14.21.07:040][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.03.05-14.21.07:040][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.03.05-14.21.07:040][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.05-14.21.38:113][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.03.05-14.21.38:147][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:147][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:248][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.03.05-14.21.38:249][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:249][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:259][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.03.05-14.21.38:261][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:261][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:269][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.03.05-14.21.38:271][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:271][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:281][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.03.05-14.21.38:282][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:282][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:291][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.03.05-14.21.38:293][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:293][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:365][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.03.05-14.21.38:367][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:367][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:377][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.03.05-14.21.38:379][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:379][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:388][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.03.05-14.21.38:390][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.38:391][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.38:791][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.05-14.21.38:828][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.05-14.21.41:445][  0]SourceControl: ソースコントロールは無効です
+[2019.03.05-14.21.41:446][  0]SourceControl: ソースコントロールは無効です
+[2019.03.05-14.21.41:479][  0]SourceControl: ソースコントロールは無効です
+[2019.03.05-14.21.41:504][  0]SourceControl: ソースコントロールは無効です
+[2019.03.05-14.21.42:646][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.05-14.21.43:080][  0]LogOcInput: OculusInput pre-init called
+[2019.03.05-14.21.43:728][  0]LogEngine: Initializing Engine...
+[2019.03.05-14.21.43:732][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.05-14.21.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.05-14.21.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.05-14.21.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.03.05-14.21.43:739][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.05-14.21.44:506][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.05-14.21.44:693][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.05-14.21.44:777][  0]LogInit: XAudio2 using 'ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.05-14.21.44:887][  0]LogInit: FAudioDevice initialized.
+[2019.03.05-14.21.44:887][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.05-14.21.45:147][  0]LogDerivedDataCache: Saved boot cache 0.26s 88MB C:/Users/keiji matsumoto/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.03.05-14.21.45:180][  0]LogInit: Texture streaming: Enabled
+[2019.03.05-14.21.45:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.05-14.21.45:270][  0]LogInit: Transaction tracking system initialized
+[2019.03.05-14.21.45:319][  0]BlueprintLog: New page: エディタの読み込み
+[2019.03.05-14.21.45:471][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.03.05-14.21.47:733][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.03.05-14.21.47:735][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.47:735][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.47:956][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.03.05-14.21.47:960][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.47:961][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.47:970][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.03.05-14.21.47:973][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.47:973][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.47:985][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.03.05-14.21.47:987][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.47:987][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.48:001][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.03.05-14.21.48:003][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.48:003][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.48:016][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.03.05-14.21.48:019][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.48:019][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.48:333][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.03.05-14.21.48:335][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.48:335][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.48:348][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.03.05-14.21.48:350][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.48:350][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.48:364][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.03.05-14.21.48:366][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.05-14.21.48:366][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.03.05-14.21.52:332][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/' took 0.02s
+[2019.03.05-14.21.52:332][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.05-14.21.52:332][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.05-14.21.52:332][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.05-14.21.52:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.05-14.21.52:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.05-14.21.52:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.05-14.21.52:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.05-14.21.52:609][  0]SourceControl: ソースコントロールは無効です
+[2019.03.05-14.21.52:609][  0]Cmd: MAP LOAD FILE="../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Map/Reflection_Of_Light.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.05-14.21.52:694][  0]LightingResults: New page: ライティングのビルド
+[2019.03.05-14.21.52:714][  0]MapCheck: New page: マップをチェック
+[2019.03.05-14.21.52:714][  0]LightingResults: New page: <何も選択されていません>
+[2019.03.05-14.21.54:959][  0]LogAIModule: Creating AISystem for world Reflection_Of_Light
+[2019.03.05-14.21.55:031][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.03.05-14.21.55:193][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.05-14.21.55:194][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.5ミリ秒かかりました。
+[2019.03.05-14.21.55:194][  0]LogFileHelpers: Loading map 'Reflection_Of_Light' took 2.585
+[2019.03.05-14.21.55:428][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-14.21.55:446][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-14.21.55:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-14.21.55:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.05-14.21.55:497][  0]LogCollectionManager: Loaded 0 collections in 0.004221 seconds
+[2019.03.05-14.21.55:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Collections/' took 0.01s
+[2019.03.05-14.21.55:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Developers/keijimatsumoto/Collections/' took 0.00s
+[2019.03.05-14.21.55:517][  0]LogFileCache: Scanning file cache for directory 'C:/Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Collections/' took 0.00s
+[2019.03.05-14.21.55:517][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.05-14.21.55:529][  0]LogContentBrowser: Native class hierarchy populated in 0.0124 seconds. Added 2651 classes and 620 folders.
+[2019.03.05-14.21.55:543][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.03.05-14.21.55:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:546][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:550][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:551][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:555][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:558][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.03.05-14.21.55:637][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.03.05-14.21.55:647][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2019.03.05-14.21.55:658][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.03.05-14.21.56:030][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.03.05-14.21.56:031][  0]LogLoad: (Engine Initialization) Total time: 81.41 seconds
+[2019.03.05-14.21.56:031][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.05-14.21.56:062][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.03.05-14.21.56:123][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.03.05-14.21.56:125][  0]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.05-14.21.56:127][  0]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.03.05-14.21.56:128][  0]LogSlate: Took 0.000459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.03.05-14.21.56:128][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.05-14.21.56:132][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.05-14.21.56:454][  0]LogSlate: Took 0.000796 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.05-14.21.56:586][  1]LogRenderer: Reallocating scene render targets to support 724x324 Format 9 NumSamples 1 (Frame:1).
+[2019.03.05-14.21.57:539][  3]LogAssetRegistry: Asset discovery search completed in 54.6714 seconds
+[2019.03.05-14.21.57:543][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.05-14.21.57:543][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000118 seconds (updated 0 objects)
+[2019.03.05-14.22.39:711][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-01.39.29:931][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.002 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:933][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.003 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:934][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:935][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:936][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.006 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:937][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:938][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:939][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.009 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:940][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:941][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.011 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:942][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.012 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:943][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.013 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:944][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.014 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:945][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.015 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.29:946][769]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.016 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.30:714][770]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.783 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-01.39.31:914][771]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{d9c2fc54-db83-4c09-995d-d9bbb64a12e0} was removed. Shutting down audio device.
+[2019.03.06-01.39.31:915][771]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.06-01.39.42:827][796]LogHttp: Warning: 000001BBDB54DD00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.06-01.39.42:827][796]LogHttp: Warning: 000001BBDB54DD00: libcurl info message cache 0 (Connection 82 seems to be dead!)
+[2019.03.06-01.39.42:827][796]LogHttp: Warning: 000001BBDB54DD00: libcurl info message cache 1 (Closing connection 82)
+[2019.03.06-01.39.42:827][796]LogHttp: Warning: 000001BBDB54DD00: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.06-01.39.42:827][796]LogHttp: Warning: 000001BBDB54DD00: libcurl info message cache 3 (Closing connection 83)
+[2019.03.06-01.39.42:827][796]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BE158C2-4DF2-67DE-1229-82B087ACF029%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f12ef127472abf1026234183535b0ef1%7C59f86ce8335a479c8d749c14a4485c79%7C0d027a15-feb3-4f4f-9208-77e2faaa119d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.06-02.47.20:119][443]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.03.06-03.11.18:643][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-03.11.19:083][844]LogRenderer: Reallocating scene render targets to support 728x332 Format 9 NumSamples 1 (Frame:116492).
+[2019.03.06-03.11.22:295][991]LogEditorViewport: Clicking on Actor (LMB): Mirror_Object_C (Mirror_Object)
+[2019.03.06-03.11.25:904][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.06-03.11.26:118][129]LogSlate: Took 0.064453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.06-03.11.26:199][129]LogSlate: Took 0.080008 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.03.06-03.11.26:388][129]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Mirror_Object.Mirror_Object
+[2019.03.06-03.11.31:081][129]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0118 seconds. Added 117 classes and 0 folders.
+[2019.03.06-03.11.35:935][129]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2019.03.06-03.11.36:380][129]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.06-03.11.36:380][129]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.06-03.11.36:381][129]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.06-03.11.38:298][129]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2019.03.06-03.11.41:694][129]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.03.06-03.11.41:695][129]LogSlate: Took 0.057339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2019.03.06-03.11.41:757][129]LogSlate: Took 0.062311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.06-03.11.48:251][340]LogSlate: Took 0.027854 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.06-03.11.54:978][513]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.06-03.11.59:724][654]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.06-03.12.30:099][555]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.147 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-03.12.44:309][742]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:494][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.03:495][941]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-04.31.27:820][ 12]LogInit: XAudio2 using 'ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.06-04.31.30:093][ 19]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (26.599 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.03.06-05.07.46:678][503]LogInit: XAudio2 using 'EX-LDGC251T (インテル(R) ディスプレイ用オーディオ)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.06-05.08.18:385][597]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{92c3beea-a41e-4813-a875-d1df3402cb82} was removed. Shutting down audio device.
+[2019.03.06-05.08.18:385][597]LogInit: XAudio2 using 'ヘッドホン (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.06-07.48.57:726][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.03.06-07.56.45:224][624]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{d9c2fc54-db83-4c09-995d-d9bbb64a12e0} was removed. Shutting down audio device.
+[2019.03.06-07.56.45:224][624]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.03.06-07.57.22:795][ 29]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beam_Object.Beam_Object
+[2019.03.06-07.58.51:873][367]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beam_Object" FILE="../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Blueprints/Beam_Object.uasset" SILENT=true
+[2019.03.06-07.58.54:999][367]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Beam_Object28F39A7C4C6460282939418A9614BA52.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Blueprints/Beam_Object.uasset'
+[2019.03.06-07.59.29:994][890]BlueprintLog: New page: Beam_Object をコンパイル
+[2019.03.06-07.59.31:749][890]BlueprintLog: New page: Beam_Object をコンパイル
+[2019.03.06-07.59.32:259][897]BlueprintLog: New page: Beam_Object をコンパイル
+[2019.03.06-07.59.32:485][897]BlueprintLog: New page: Beam_Object をコンパイル
+[2019.03.06-07.59.53:527][793]LogSlate: Took 0.040366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.06-08.00.38:142][696]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Reflection_Of_Light_Auto1919C76B741D575E162E0C48D67022004.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Autosaves/Game/Map/Reflection_Of_Light_Auto1.umap'
+[2019.03.06-08.00.38:201][696]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Reflection_Of_Light' took 0.632
+[2019.03.06-08.00.38:201][696]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.632
+[2019.03.06-08.00.38:203][696]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Beam_Object] ([1] browsable assets)...
+[2019.03.06-08.00.38:217][696]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Beam_Object.Beam_Object]
+[2019.03.06-08.00.38:217][696]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Beam_Object]
+[2019.03.06-08.00.38:326][696]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Beam_Object_Auto156A52BCF4E0FC3C25F0654B341DD2B3B.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Autosaves/Game/Blueprints/Beam_Object_Auto1.uasset'
+[2019.03.06-08.00.38:353][696]LogFileHelpers: Auto-saving content packages took 0.151
+[2019.03.06-08.02.59:808][ 48]BlueprintLog: New page: Beam_Object をコンパイル
+[2019.03.06-08.05.41:186][193]LogHttp: Warning: 000001BBCD060B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.06-08.05.41:186][193]LogHttp: Warning: 000001BBCD060B80: libcurl info message cache 0 (Connection 237 seems to be dead!)
+[2019.03.06-08.05.41:186][193]LogHttp: Warning: 000001BBCD060B80: libcurl info message cache 1 (Closing connection 237)
+[2019.03.06-08.05.41:186][193]LogHttp: Warning: 000001BBCD060B80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.03.06-08.05.41:186][193]LogHttp: Warning: 000001BBCD060B80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.06-08.05.41:186][193]LogHttp: Warning: 000001BBCD060B80: libcurl info message cache 4 (Closing connection 238)
+[2019.03.06-08.05.41:208][194]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8BE158C2-4DF2-67DE-1229-82B087ACF029%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f12ef127472abf1026234183535b0ef1%7C59f86ce8335a479c8d749c14a4485c79%7C0d027a15-feb3-4f4f-9208-77e2faaa119d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.03.06-08.10.38:955][397]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Reflection_Of_Light_Auto2F17FC8774ABD5EE46B9517A018A23E22.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Autosaves/Game/Map/Reflection_Of_Light_Auto2.umap'
+[2019.03.06-08.10.38:960][397]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Map/Reflection_Of_Light' took 0.387
+[2019.03.06-08.10.38:961][397]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.387
+[2019.03.06-08.10.38:963][397]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Beam_Object] ([1] browsable assets)...
+[2019.03.06-08.10.38:978][397]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Beam_Object.Beam_Object]
+[2019.03.06-08.10.38:978][397]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Beam_Object]
+[2019.03.06-08.10.39:100][397]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Beam_Object_Auto2E7BB676E492B75F589ACD4ACE74B34B3.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Autosaves/Game/Blueprints/Beam_Object_Auto2.uasset'
+[2019.03.06-08.10.39:145][397]LogFileHelpers: Auto-saving content packages took 0.182
+[2019.03.06-08.31.20:418][158]BlueprintLog: New page: Beam_Object をコンパイル
+[2019.03.06-08.31.23:289][211]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Reflection_Of_LightBBC8390B41F57E8B1FD51C955C87D209.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Map/Reflection_Of_Light.umap'
+[2019.03.06-08.31.23:521][211]LogFileHelpers: Saving map 'Reflection_Of_Light' took 0.756
+[2019.03.06-08.31.23:587][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beam_Object" FILE="../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Blueprints/Beam_Object.uasset" SILENT=true
+[2019.03.06-08.31.23:790][211]LogSavePackage: Moving '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Saved/Beam_Object76682BD246263934D54A20A3A8F83F22.tmp' to '../../../../../../Users/keiji matsumoto/Desktop/日本ゲーム大賞_プロジェクト/Prototype/Content/Blueprints/Beam_Object.uasset'
+[2019.03.06-08.31.27:238][328]LogUObjectArray: Warning: Other object in slot
+[2019.03.06-08.31.27:258][328]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.03.06-08.31.38:270][328]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.992 s
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: 
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: Stack: 
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc31bc8304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc31bd81ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc2dadbcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc2606769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc26020917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc4dd97c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-08.31.38:276][328]LogOutputDevice: Error: [Callstack] 0x00007ffc4dfe4393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc4ddf2d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc4ddc8a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc4ddbc1cc UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc6678d9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc66780de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc6678fae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc6677ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc86306d41 USER32.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc86306713 USER32.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ffc66791746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ff7352e5546 UE4Editor.exe!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ff7352f596c UE4Editor.exe!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ff7352f59ea UE4Editor.exe!UnknownFunction []
+[2019.03.06-08.31.38:277][328]LogOutputDevice: Error: [Callstack] 0x00007ff7353048da UE4Editor.exe!UnknownFunction []
+[2019.03.06-08.31.38:278][328]LogOutputDevice: Error: [Callstack] 0x00007ff73530659a UE4Editor.exe!UnknownFunction []
+[2019.03.06-08.31.38:278][328]LogOutputDevice: Error: [Callstack] 0x00007ffc85fa3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.06-08.31.38:278][328]LogOutputDevice: Error: [Callstack] 0x00007ffc882e3691 ntdll.dll!UnknownFunction []
+[2019.03.06-08.31.38:278][328]LogOutputDevice: Error: 
+[2019.03.06-08.31.38:283][328]LogStats:                SubmitErrorReport -  0.000 s
