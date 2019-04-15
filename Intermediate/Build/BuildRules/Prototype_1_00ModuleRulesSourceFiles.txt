@@ -1,0 +1,2 @@
+C:\Users\keiji matsumoto\Desktop\Prototype_1_00\Plugins\VictoryPlugin-master\VictoryPlugin-master\Source\VictoryBPLibrary\VictoryBPLibrary.Build.cs
+C:\Users\keiji matsumoto\Desktop\Prototype_1_00\Intermediate\Source\Prototype.Build.cs
