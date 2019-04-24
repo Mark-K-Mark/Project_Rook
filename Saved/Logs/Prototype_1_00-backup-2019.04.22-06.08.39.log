@@ -1,0 +1,1584 @@
+﻿Log file open, 04/22/19 15:06:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype_1_00
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178068
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.080s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.22-06.06.07:602][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.22-06.06.07:602][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.22-06.06.07:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:602][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.22-06.06.07:602][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2019.04.22-06.06.07:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:602][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:602][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.22-06.06.07:603][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:603][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:606][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.22-06.06.07:606][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.22-06.06.07:607][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.22-06.06.07:607][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.22-06.06.07:607][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.22-06.06.07:621][  0]LogHAL: Display: Platform has ~ 8 GB [8494374912 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.22-06.06.07:621][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.22-06.06.07:621][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.22-06.06.07:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.22-06.06.07:622][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.22-06.06.07:622][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.06.07:622][  0]LogInit: Computer: DESKTOP-9BEMNDN
+[2019.04.22-06.06.07:622][  0]LogInit: User: shinoda
+[2019.04.22-06.06.07:623][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.22-06.06.07:623][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2019.04.22-06.06.07:623][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.22-06.06.07:623][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.22-06.06.07:623][  0]LogMemory: Process Physical Memory: 102.39 MB used, 102.39 MB peak
+[2019.04.22-06.06.07:623][  0]LogMemory: Process Virtual Memory: 84.45 MB used, 84.45 MB peak
+[2019.04.22-06.06.07:623][  0]LogMemory: Physical Memory: 2943.72 MB used,  5157.14 MB free, 8100.87 MB total
+[2019.04.22-06.06.07:623][  0]LogMemory: Virtual Memory: 4629.01 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.04.22-06.06.07:643][  0]LogInit: Using OS detected language (ja-JP).
+[2019.04.22-06.06.07:643][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.04.22-06.06.07:644][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.04.22-06.06.08:067][  0]LogStreaming: Display: Took  0.425s to InitEngineTextLocalization.
+[2019.04.22-06.06.08:068][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.22-06.06.08:098][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.22-06.06.08:099][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.22-06.06.08:344][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.22-06.06.08:344][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.22-06.06.08:360][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.04.22-06.06.08:360][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.22-06.06.08:363][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.22-06.06.08:363][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.22-06.06.08:363][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.22-06.06.08:370][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.22-06.06.08:370][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.22-06.06.08:370][  0]LogWindows: EnumDisplayDevices:
+[2019.04.22-06.06.08:370][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.04.22-06.06.08:370][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.04.22-06.06.08:371][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.04.22-06.06.08:371][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.04.22-06.06.08:371][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.04.22-06.06.08:371][  0]LogD3D11RHI:   Driver Version: 21.20.16.4550 (internal:21.20.16.4550, unified:21.20.16.4550)
+[2019.04.22-06.06.08:371][  0]LogD3D11RHI:      Driver Date: 11-11-2016
+[2019.04.22-06.06.08:371][  0]LogRHI: Texture pool is 1507 MB (70% of 2153 MB)
+[2019.04.22-06.06.08:410][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.04.22-06.06.08:410][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.22-06.06.08:417][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.04.22-06.06.08:968][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.22-06.06.08:993][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.22-06.06.09:021][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.22-06.06.09:049][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.22-06.06.09:081][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.22-06.06.09:105][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.22-06.06.09:121][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.22-06.06.09:141][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.22-06.06.09:149][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:230][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.06.09:231][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.22-06.06.09:295][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.22-06.06.09:295][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.22-06.06.09:319][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.22-06.06.09:319][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.22-06.06.09:332][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.22-06.06.09:345][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.22-06.06.09:358][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.22-06.06.09:373][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.22-06.06.09:422][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.22-06.06.09:422][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.22-06.06.09:422][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.22-06.06.09:492][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Users/shinoda/Desktop/GameROOK/Intermediate/Shaders/WorkingDirectory/6548/).
+[2019.04.22-06.06.09:492][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/shinoda/AppData/Local/Temp/UnrealShaderWorkingDir/43565DA94F805AE9A55756A7112BEC81/'.
+[2019.04.22-06.06.09:495][  0]LogXGEController: Cleaning working directory: C:/Users/shinoda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.22-06.06.09:495][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.22-06.06.09:495][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.22-06.06.09:495][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.22-06.06.10:170][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.22-06.06.10:228][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/shinoda/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.22-06.06.10:228][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/shinoda/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.22-06.06.10:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/shinoda/Desktop/GameROOK/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.22-06.06.10:228][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.22-06.06.10:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/shinoda/Desktop/GameROOK/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.22-06.06.10:228][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.22-06.06.10:244][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.22-06.06.10:245][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.22-06.06.10:245][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.22-06.06.10:257][  0]LogDerivedDataCache: Using Local data cache path C:/Users/shinoda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.22-06.06.10:257][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.22-06.06.10:257][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.22-06.06.10:290][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.22-06.06.10:291][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.22-06.06.10:292][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.22-06.06.10:382][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2019.04.22-06.06.10:772][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.22-06.06.10:947][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.22-06.06.10:951][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.22-06.06.10:951][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.22-06.06.10:951][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.22-06.06.10:951][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.22-06.06.10:968][  0]LogNetVersion: Prototype_1_00 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3518137966)
+[2019.04.22-06.06.11:549][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.116116 seconds
+[2019.04.22-06.06.11:559][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.22-06.06.11:559][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.22-06.06.11:559][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.22-06.06.12:499][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.04.22-06.06.12:500][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:500][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:540][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.04.22-06.06.12:540][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:540][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:544][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.04.22-06.06.12:544][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:544][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:548][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.04.22-06.06.12:549][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:549][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:553][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.04.22-06.06.12:554][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:554][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:558][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.04.22-06.06.12:559][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:559][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:586][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.04.22-06.06.12:587][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:587][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:591][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.04.22-06.06.12:591][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:591][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:595][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.04.22-06.06.12:596][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.06.12:596][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.06.12:660][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.22-06.06.12:675][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.22-06.06.13:390][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.06.13:390][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.06.13:391][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.06.13:392][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.06.13:574][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.22-06.06.13:628][  0]LogOcInput: OculusInput pre-init called
+[2019.04.22-06.06.13:778][  0]LogEngine: Initializing Engine...
+[2019.04.22-06.06.13:779][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.22-06.06.13:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.22-06.06.13:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.22-06.06.13:780][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.22-06.06.13:781][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.22-06.06.14:048][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.22-06.06.14:065][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.22-06.06.14:073][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-06.06.14:191][  0]LogInit: FAudioDevice initialized.
+[2019.04.22-06.06.14:191][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.22-06.06.14:438][  0]LogDerivedDataCache: Saved boot cache 0.25s 74MB C:/Users/shinoda/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.22-06.06.14:455][  0]LogInit: Texture streaming: Enabled
+[2019.04.22-06.06.14:475][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.22-06.06.14:475][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={240F4760-4F6B-76EB-D225-6AA50F80810B}
+[2019.04.22-06.06.14:490][  0]LogInit: Transaction tracking system initialized
+[2019.04.22-06.06.14:520][  0]BlueprintLog: New page: エディタの読み込み
+[2019.04.22-06.06.14:609][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.04.22-06.06.15:172][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.22-06.06.15:172][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.22-06.06.15:172][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.22-06.06.15:172][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.22-06.06.15:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.22-06.06.15:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.22-06.06.15:173][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.22-06.06.15:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/' took 0.05s
+[2019.04.22-06.06.15:344][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.06.15:344][  0]Cmd: MAP LOAD FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Title_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-06.06.15:345][  0]LightingResults: New page: ライティングのビルド
+[2019.04.22-06.06.15:348][  0]MapCheck: New page: マップをチェック
+[2019.04.22-06.06.15:348][  0]LightingResults: New page: <何も選択されていません>
+[2019.04.22-06.06.15:634][  0]LogAIModule: Creating AISystem for world Title_Map
+[2019.04.22-06.06.15:639][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Map/Reflection_Map) is flushing async loading
+[2019.04.22-06.06.15:639][  0]LogStreaming: Display: Flushing async loaders.
+[2019.04.22-06.06.16:529][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-06.06.16:643][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-06.06.16:643][  0]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/Map/Reflection_Of_Light' which isn't loaded.
+[2019.04.22-06.06.16:643][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.387ミリ秒かかりました。
+[2019.04.22-06.06.16:644][  0]LogFileHelpers: Loading map 'Title_Map' took 1.299
+[2019.04.22-06.06.16:879][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.06.16:890][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.06.16:900][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.06.16:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.06.16:915][  0]LogCollectionManager: Loaded 0 collections in 0.002075 seconds
+[2019.04.22-06.06.16:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Saved/Collections/' took 0.01s
+[2019.04.22-06.06.16:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/Developers/shinoda/Collections/' took 0.00s
+[2019.04.22-06.06.16:933][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/Collections/' took 0.00s
+[2019.04.22-06.06.16:933][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.22-06.06.16:942][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2651 classes and 620 folders.
+[2019.04.22-06.06.16:953][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-06.06.16:954][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:955][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:957][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:959][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:960][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:961][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:963][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:965][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.16:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.06.17:002][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-06.06.17:008][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.22-06.06.17:052][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-06.06.17:052][  0]LogLoad: (Engine Initialization) Total time: 11.12 seconds
+[2019.04.22-06.06.17:052][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.22-06.06.17:068][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.04.22-06.06.17:140][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.22-06.06.17:142][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.22-06.06.17:144][  0]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.04.22-06.06.17:144][  0]LogSlate: Took 0.000457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.04.22-06.06.17:145][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.22-06.06.17:149][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.22-06.06.17:282][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.22-06.06.17:709][  2]LogRenderer: Reallocating scene render targets to support 676x284 Format 10 NumSamples 1 (Frame:1).
+[2019.04.22-06.06.18:783][  4]LogAssetRegistry: Asset discovery search completed in 8.4236 seconds
+[2019.04.22-06.06.18:785][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.22-06.06.18:785][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2019.04.22-06.06.22:323][145]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/' took 5.24s
+[2019.04.22-06.06.30:063][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.06.30:173][468]LogRenderer: Reallocating scene render targets to support 680x284 Format 10 NumSamples 1 (Frame:463).
+[2019.04.22-06.06.32:343][553]LogSlate: Took 0.000426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.22-06.06.32:346][553]LogSlate: Took 0.000617 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.04.22-06.06.32:475][553]LogAIModule: Creating AISystem for world Reflection_Remake
+[2019.04.22-06.06.32:491][553]LogAssetEditorManager: Opening Asset editor for World /Game/Map/Reflection_Remake.Reflection_Remake
+[2019.04.22-06.06.32:617][553]Cmd: MAP LOAD FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-06.06.32:617][553]LightingResults: New page: ライティングのビルド
+[2019.04.22-06.06.32:618][553]LoadErrors: New page: マップをロード中: Reflection_Remake.umap
+[2019.04.22-06.06.32:620][553]MapCheck: New page: マップをチェック
+[2019.04.22-06.06.32:620][553]LightingResults: New page: <何も選択されていません>
+[2019.04.22-06.06.32:672][553]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-06.06.32:758][553]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-06.06.32:758][553]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.179ミリ秒かかりました。
+[2019.04.22-06.06.32:758][553]LogFileHelpers: Loading map 'Reflection_Remake' took 0.143
+[2019.04.22-06.06.36:763][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.06.37:856][891]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2019.04.22-06.06.37:879][891]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.06.37:879][891]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-06.06.37:879][891]PIE: New page: PIEセッション: Reflection_Remake (2019/04/23 0:06:37)
+[2019.04.22-06.06.37:893][891]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Reflection_Remake
+[2019.04.22-06.06.37:915][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020631s)
+[2019.04.22-06.06.37:915][891]LogAIModule: Creating AISystem for world Reflection_Remake
+[2019.04.22-06.06.37:916][891]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2019.04.22-06.06.37:916][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Reflection_Remake.Reflection_Remake to /Game/Map/UEDPIE_0_Reflection_Remake.Reflection_Remake (0.022502s)
+[2019.04.22-06.06.37:943][891]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-06.06.37:956][891]LogInit: FAudioDevice initialized.
+[2019.04.22-06.06.37:958][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.06.37:962][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.06.38:095][891]LogLoad: Game class is 'MyGameMode_C'
+[2019.04.22-06.06.38:099][891]LogWorld: Bringing World /Game/Map/UEDPIE_0_Reflection_Remake.Reflection_Remake up for play (max tick rate 0) at 2019.04.22-15.06.38
+[2019.04.22-06.06.38:099][891]LogWorld: Bringing up level for play took: 0.002865
+[2019.04.22-06.06.38:120][891]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.22-06.06.38:126][891]PIE: /Game/Map/UEDPIE_0_Reflection_Remake 0.915のプレイ イン エディタの開始時間
+[2019.04.22-06.06.38:126][891]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.06.38:127][891]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:131][891]LogSlate: Took 0.002820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.04.22-06.06.38:219][891]LogRenderer: Reallocating scene render targets to support 856x480 Format 10 NumSamples 1 (Frame:1).
+[2019.04.22-06.06.38:513][892]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:589][893]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:659][894]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:668][895]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:689][896]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:716][897]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:739][898]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:759][899]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:785][900]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:807][901]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:827][902]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:862][903]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:886][904]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:908][905]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:930][906]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:953][907]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:977][908]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.38:999][909]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:022][910]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:044][911]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:066][912]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:087][913]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:108][914]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:132][915]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:152][916]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:176][917]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:198][918]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:221][919]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:241][920]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:263][921]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:284][922]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:306][923]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:330][924]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:349][925]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:372][926]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:396][927]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:418][928]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:442][929]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:464][930]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:486][931]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:507][932]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:529][933]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:550][934]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:572][935]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:598][936]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:617][937]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:639][938]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:661][939]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:684][940]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:706][941]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:732][942]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:751][943]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:775][944]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:803][945]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:826][946]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:847][947]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:869][948]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:891][949]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:914][950]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:936][951]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:955][952]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:977][953]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.39:999][954]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:021][955]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:043][956]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:065][957]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:088][958]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:108][959]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:129][960]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:152][961]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:173][962]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:195][963]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:216][964]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:236][965]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:258][966]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:279][967]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:302][968]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:322][969]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:343][970]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:364][971]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:387][972]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:408][973]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:433][974]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:456][975]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:478][976]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:499][977]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:519][978]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:539][979]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:559][980]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:582][981]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:603][982]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:623][983]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:645][984]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:666][985]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:688][986]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:710][987]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:732][988]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:753][989]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:775][990]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:796][991]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:818][992]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:839][993]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:861][994]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:881][995]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:903][996]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:923][997]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:945][998]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:967][999]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.40:989][  0]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:010][  1]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:031][  2]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:052][  3]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:073][  4]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:095][  5]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:117][  6]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:138][  7]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:160][  8]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:181][  9]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:203][ 10]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:223][ 11]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:245][ 12]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:267][ 13]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:288][ 14]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:310][ 15]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:332][ 16]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:352][ 17]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:373][ 18]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:395][ 19]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:418][ 20]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:441][ 21]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:464][ 22]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:486][ 23]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:507][ 24]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:527][ 25]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:547][ 26]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:569][ 27]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:590][ 28]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:612][ 29]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:634][ 30]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:655][ 31]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:677][ 32]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:699][ 33]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:720][ 34]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:740][ 35]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:763][ 36]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:786][ 37]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:806][ 38]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:827][ 39]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:848][ 40]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:869][ 41]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:890][ 42]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:912][ 43]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:934][ 44]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:955][ 45]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:977][ 46]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.41:998][ 47]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:019][ 48]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:040][ 49]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:061][ 50]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:083][ 51]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:104][ 52]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:127][ 53]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:148][ 54]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:169][ 55]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:189][ 56]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:212][ 57]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:234][ 58]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:255][ 59]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:278][ 60]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:298][ 61]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:320][ 62]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:340][ 63]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:362][ 64]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:385][ 65]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:404][ 66]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:427][ 67]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:450][ 68]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:472][ 69]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:492][ 70]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:514][ 71]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:536][ 72]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:556][ 73]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:578][ 74]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:601][ 75]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:621][ 76]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:644][ 77]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:664][ 78]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:686][ 79]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:707][ 80]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:728][ 81]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:751][ 82]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:771][ 83]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:793][ 84]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:816][ 85]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:837][ 86]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:858][ 87]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:880][ 88]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:902][ 89]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:924][ 90]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:945][ 91]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:968][ 92]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.42:987][ 93]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:007][ 94]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:028][ 95]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:050][ 96]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:071][ 97]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:093][ 98]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:115][ 99]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:136][100]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:156][101]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:178][102]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:200][103]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:221][104]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:243][105]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:264][106]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:288][107]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:308][108]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:329][109]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:351][110]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:372][111]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:393][112]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:415][113]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:438][114]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:461][115]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:482][116]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:504][117]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:527][118]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:548][119]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:568][120]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:589][121]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:610][122]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:631][123]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:652][124]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:675][125]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:698][126]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:720][127]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:742][128]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:763][129]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:789][130]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:810][131]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:830][132]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:854][133]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:876][134]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:898][135]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:919][136]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.43:940][137]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:432][160]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:454][161]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:475][162]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:496][163]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:516][164]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:537][165]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:559][166]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:580][167]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:602][168]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:622][169]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:644][170]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:665][171]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:687][172]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:708][173]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:729][174]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:750][175]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:771][176]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:791][177]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:812][178]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:833][179]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:853][180]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:875][181]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:897][182]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:924][183]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:949][184]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:972][185]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.44:996][186]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:018][187]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:041][188]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:064][189]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:090][190]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:111][191]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:134][192]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:156][193]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:180][194]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:204][195]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:229][196]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:252][197]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:274][198]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:298][199]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:322][200]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:344][201]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:368][202]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:390][203]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:415][204]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:438][205]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:462][206]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:485][207]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:510][208]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:531][209]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:554][210]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:579][211]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:604][212]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:624][213]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:649][214]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:675][215]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:695][216]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:719][217]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:743][218]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:763][219]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:785][220]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:806][221]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:828][222]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:848][223]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:870][224]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:891][225]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:912][226]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:934][227]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:956][228]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.45:976][229]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:001][230]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:021][231]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:042][232]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:064][233]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:086][234]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:107][235]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:128][236]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:150][237]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:170][238]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:191][239]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:212][240]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:234][241]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:257][242]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:277][243]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:300][244]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:321][245]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:344][246]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:364][247]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:387][248]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:408][249]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:433][250]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:455][251]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:475][252]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:495][253]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:516][254]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:539][255]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:560][256]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:581][257]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:602][258]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:623][259]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:644][260]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:665][261]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:687][262]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:707][263]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:729][264]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:751][265]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:775][266]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:797][267]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:818][268]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:838][269]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:859][270]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:880][271]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:901][272]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:922][273]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:944][274]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:965][275]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.46:987][276]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:010][277]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:031][278]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:054][279]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:076][280]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:097][281]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:118][282]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:139][283]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:160][284]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:181][285]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:202][286]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:223][287]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:244][288]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:267][289]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:287][290]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:308][291]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:331][292]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:352][293]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:375][294]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:396][295]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:420][296]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:443][297]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:463][298]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:484][299]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:506][300]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:527][301]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:548][302]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:567][303]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:588][304]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:610][305]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:631][306]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:653][307]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:675][308]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:696][309]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:717][310]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:738][311]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:760][312]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:781][313]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:803][314]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:825][315]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:847][316]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:868][317]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:888][318]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:910][319]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:933][320]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:953][321]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:976][322]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.47:996][323]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:019][324]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:039][325]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:061][326]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:083][327]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:103][328]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:125][329]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:145][330]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:167][331]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:187][332]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:209][333]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:231][334]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:253][335]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:275][336]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:297][337]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:318][338]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:339][339]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:360][340]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:382][341]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:402][342]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:425][343]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:447][344]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:468][345]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:491][346]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:512][347]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:533][348]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:554][349]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:575][350]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:597][351]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:618][352]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:640][353]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:662][354]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:683][355]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:704][356]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:725][357]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:748][358]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:770][359]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:792][360]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:813][361]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:834][362]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:854][363]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:877][364]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:898][365]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:919][366]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:941][367]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:963][368]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.48:985][369]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:005][370]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:027][371]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:049][372]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:069][373]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:092][374]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:113][375]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:135][376]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:157][377]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:177][378]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:199][379]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:220][380]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:241][381]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:264][382]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:285][383]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:306][384]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:326][385]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:347][386]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:368][387]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:391][388]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:411][389]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:434][390]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:457][391]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:480][392]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:501][393]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:522][394]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:540][395]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:563][396]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:584][397]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:604][398]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:626][399]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:649][400]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:670][401]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:692][402]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:716][403]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:737][404]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:759][405]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:783][406]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:804][407]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:826][408]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:847][409]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:869][410]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:891][411]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:912][412]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:934][413]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:955][414]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:974][415]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.49:996][416]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:017][417]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:037][418]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:059][419]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:081][420]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:103][421]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:124][422]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:146][423]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:167][424]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:187][425]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:210][426]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:231][427]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:253][428]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:274][429]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:296][430]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:317][431]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:338][432]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:360][433]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:381][434]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:401][435]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:424][436]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:448][437]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:470][438]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:492][439]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:513][440]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:534][441]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:555][442]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:575][443]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:596][444]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:618][445]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:640][446]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:662][447]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:683][448]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:703][449]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:726][450]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:747][451]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:770][452]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:794][453]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:818][454]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:840][455]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:862][456]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:888][457]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:908][458]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:928][459]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:950][460]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:972][461]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.50:994][462]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:016][463]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:038][464]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:060][465]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:083][466]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:107][467]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:129][468]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:151][469]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:175][470]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:196][471]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:218][472]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:239][473]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:264][474]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:288][475]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:310][476]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:332][477]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:353][478]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:379][479]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:400][480]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:425][481]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:450][482]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:470][483]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:493][484]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:519][485]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:541][486]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:563][487]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:587][488]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:612][489]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:640][490]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:663][491]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:685][492]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:709][493]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:732][494]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:753][495]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:777][496]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:800][497]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:822][498]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:845][499]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:868][500]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:890][501]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:911][502]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:937][503]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:958][504]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.51:981][505]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:003][506]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:027][507]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:049][508]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:071][509]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:095][510]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:117][511]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:139][512]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:162][513]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:188][514]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:210][515]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:232][516]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:252][517]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:278][518]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:299][519]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:321][520]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:346][521]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:369][522]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:390][523]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:416][524]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:440][525]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:464][526]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:486][527]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:508][528]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:531][529]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:554][530]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:576][531]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:600][532]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:623][533]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:644][534]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:668][535]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:690][536]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:714][537]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:739][538]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:761][539]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:788][540]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:809][541]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:834][542]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:857][543]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:881][544]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:907][545]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:930][546]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:956][547]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.52:977][548]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:000][549]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:023][550]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:046][551]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:070][552]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:092][553]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:117][554]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:138][555]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:161][556]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:185][557]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:206][558]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:228][559]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:252][560]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:272][561]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:296][562]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:319][563]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:345][564]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:367][565]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:387][566]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:410][567]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:436][568]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:460][569]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:482][570]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:504][571]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:529][572]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:552][573]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:575][574]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:597][575]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:619][576]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:643][577]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:669][578]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:690][579]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:715][580]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:737][581]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:760][582]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:786][583]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:809][584]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:832][585]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:857][586]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:880][587]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:900][588]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:921][589]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:946][590]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:967][591]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.53:989][592]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:011][593]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:034][594]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:055][595]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:077][596]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:099][597]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:121][598]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:142][599]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:165][600]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:186][601]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:206][602]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:228][603]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:251][604]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:273][605]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:295][606]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:318][607]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:340][608]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:362][609]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:383][610]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:405][611]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:432][612]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:457][613]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:480][614]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:503][615]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:529][616]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:553][617]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:576][618]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:598][619]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:621][620]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:644][621]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:669][622]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:693][623]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:717][624]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:741][625]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:765][626]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:792][627]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:827][628]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:847][629]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:867][630]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:890][631]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:913][632]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:936][633]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:962][634]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.54:983][635]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:009][636]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:032][637]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:057][638]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:079][639]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:101][640]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:127][641]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:149][642]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:169][643]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:194][644]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:215][645]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:237][646]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:261][647]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:284][648]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:305][649]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:329][650]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:352][651]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:377][652]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:398][653]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:421][654]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:448][655]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:473][656]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:495][657]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:520][658]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:541][659]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:565][660]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:588][661]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:609][662]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:633][663]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:656][664]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:678][665]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:701][666]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:724][667]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:746][668]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:768][669]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:794][670]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.06.55:796][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.06.55:797][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.06.55:846][670]LogSlate: Window 'Prototype_1_00 ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.04.22-06.06.55:890][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-06.06.55:891][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.06.55:956][671]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.22-06.06.57:091][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Slums_Wall_02h)
+[2019.04.22-06.06.58:967][801]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Slums_Wall_02l)
+[2019.04.22-06.07.00:550][874]Cmd: EDIT COPY
+[2019.04.22-06.07.01:256][909]Cmd: EDIT PASTE
+[2019.04.22-06.07.15:303][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.07.16:318][602]LogTemp: Repeating last play command: 新規エディタウィンドウ (PIE)
+[2019.04.22-06.07.16:341][602]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.07.16:341][602]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.22-06.07.16:341][602]PIE: New page: PIEセッション: Reflection_Remake (2019/04/23 0:07:16)
+[2019.04.22-06.07.16:341][602]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Reflection_Remake
+[2019.04.22-06.07.16:350][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008318s)
+[2019.04.22-06.07.16:350][602]LogAIModule: Creating AISystem for world Reflection_Remake
+[2019.04.22-06.07.16:351][602]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2019.04.22-06.07.16:351][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Reflection_Remake.Reflection_Remake to /Game/Map/UEDPIE_0_Reflection_Remake.Reflection_Remake (0.009152s)
+[2019.04.22-06.07.16:373][602]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-06.07.16:388][602]LogInit: FAudioDevice initialized.
+[2019.04.22-06.07.16:389][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.07.16:393][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.07.16:472][602]LogLoad: Game class is 'MyGameMode_C'
+[2019.04.22-06.07.16:474][602]LogWorld: Bringing World /Game/Map/UEDPIE_0_Reflection_Remake.Reflection_Remake up for play (max tick rate 0) at 2019.04.22-15.07.16
+[2019.04.22-06.07.16:474][602]LogWorld: Bringing up level for play took: 0.001396
+[2019.04.22-06.07.16:493][602]PIE: /Game/Map/UEDPIE_0_Reflection_Remake -0.717のプレイ イン エディタの開始時間
+[2019.04.22-06.07.16:494][602]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.07.16:494][602]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:671][603]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:722][604]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:754][605]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:779][606]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:803][607]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:826][608]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:851][609]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:875][610]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:900][611]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:924][612]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:948][613]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:972][614]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.16:999][615]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:021][616]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:045][617]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:071][618]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:100][619]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:119][620]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:144][621]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:168][622]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:192][623]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:216][624]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:239][625]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:269][626]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:290][627]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:315][628]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:346][629]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:407][630]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:461][631]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:510][632]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:561][633]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:612][634]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:664][635]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:715][636]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:768][637]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:824][638]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.17:875][639]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:475][813]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:497][814]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:523][815]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:546][816]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:573][817]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:599][818]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:625][819]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:650][820]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:675][821]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:697][822]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:725][823]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:747][824]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:772][825]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:802][826]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:825][827]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:851][828]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:875][829]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:901][830]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:922][831]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:945][832]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:971][833]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.22:999][834]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:021][835]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:046][836]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:072][837]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:100][838]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:124][839]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:149][840]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:173][841]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:200][842]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:227][843]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:250][844]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:277][845]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:301][846]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:328][847]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:351][848]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:377][849]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:401][850]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:429][851]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:454][852]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:482][853]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:506][854]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:532][855]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:556][856]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:583][857]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:608][858]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:633][859]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:660][860]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:685][861]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:708][862]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:730][863]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:757][864]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:782][865]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:807][866]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:829][867]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:855][868]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:878][869]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:903][870]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:927][871]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:951][872]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:977][873]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.23:999][874]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:022][875]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:049][876]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:072][877]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:098][878]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:122][879]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:147][880]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:173][881]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:197][882]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:221][883]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:246][884]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:271][885]LogBlueprintUserMessages: [PlayerBP_C_0] 調べる
+[2019.04.22-06.07.24:272][885]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.07.24:273][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.07.24:320][885]LogSlate: Window 'Prototype_1_00 ゲームプレビュー Standalone (64-ビット/PCD3D_SM5)' being destroyed
+[2019.04.22-06.07.24:366][885]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.22-06.07.24:367][885]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel' has LevelScriptBlueprint '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake' with GeneratedClass '/Game/Map/Reflection_Remake.Reflection_Remake_C' with ClassGeneratedBy '/Game/Map/Reflection_Remake.Reflection_Remake:PersistentLevel.Reflection_Remake'
+[2019.04.22-06.07.24:436][886]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.22-06.07.27:089][  1]Cmd: TRANSACTION UNDO
+[2019.04.22-06.07.27:090][  1]LogEditorTransaction: Undo アクタ を移動
+[2019.04.22-06.07.27:868][ 32]Cmd: TRANSACTION UNDO
+[2019.04.22-06.07.27:868][ 32]LogEditorTransaction: Undo アクタ を移動
+[2019.04.22-06.07.29:770][118]Cmd: TRANSACTION UNDO
+[2019.04.22-06.07.29:770][118]LogEditorTransaction: Undo 貼り付け
+[2019.04.22-06.07.43:363][783]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.07.43:374][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.22-06.07.43:562][783]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake83A42446481FD329E8EA41A6670E5097.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap'
+[2019.04.22-06.07.43:609][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake_BuiltData" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset" SILENT=true
+[2019.04.22-06.07.43:772][783]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake_BuiltData9E6D5CBA4CB07798F20538A46E6FE43C.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset'
+[2019.04.22-06.07.45:739][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.08.17:518][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.08.17:625][968]LogStaticMesh: スタティックメッシュ SM_Slums_Wall_02i をビルド中...
+[2019.04.22-06.08.17:674][968]LogStaticMesh: Built static mesh [0.05s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Wall_02i.SM_Slums_Wall_02i
+[2019.04.22-06.08.18:083][  5]LogActorFactory: Actor Factory created SM_Slums_Wall_02i
+[2019.04.22-06.08.19:648][ 69]LogActorFactory: Actor Factory created SM_Slums_Wall_02i
+[2019.04.22-06.08.31:601][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.08.32:165][628]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SyncInterval 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.Width 512
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.Height 256
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.OutputWindow 00000000003F0D92
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.04.22-06.08.37:304][628]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.04.22-06.08.37:304][628]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.04.22-06.08.37:304][628]LogD3D11RHI: [Aftermath] GDynamicRHI=000002DBB4C8C0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.04.22-06.08.37:347][628]LogWindows: Windows GetLastError: この操作を正しく終了しました。 (0)

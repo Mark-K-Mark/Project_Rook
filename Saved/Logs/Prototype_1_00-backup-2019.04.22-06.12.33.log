@@ -1,0 +1,690 @@
+﻿Log file open, 04/22/19 15:08:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Prototype_1_00
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170021
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.22-06.08.42:894][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.22-06.08.42:894][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.22-06.08.42:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:894][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.22-06.08.42:894][  0]LogConfig: Setting CVar [[r.ForwardShading:1]]
+[2019.04.22-06.08.42:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.22-06.08.42:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:895][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:897][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.22-06.08.42:897][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.22-06.08.42:898][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.22-06.08.42:898][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.22-06.08.42:898][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.22-06.08.42:910][  0]LogHAL: Display: Platform has ~ 8 GB [8494374912 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.22-06.08.42:910][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.22-06.08.42:910][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.22-06.08.42:910][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:910][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.22-06.08.42:910][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.22-06.08.42:910][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:910][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.22-06.08.42:910][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:910][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Scalability.ini]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.22-06.08.42:911][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.22-06.08.42:912][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.22-06.08.42:912][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.22-06.08.42:912][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/shinoda/Desktop/GameROOK/Saved/Config/Windows/Engine.ini]
+[2019.04.22-06.08.42:912][  0]LogInit: Computer: DESKTOP-9BEMNDN
+[2019.04.22-06.08.42:912][  0]LogInit: User: shinoda
+[2019.04.22-06.08.42:912][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.22-06.08.42:912][  0]LogInit: High frequency timer resolution =2.648437 MHz
+[2019.04.22-06.08.42:912][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.22-06.08.42:912][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.22-06.08.42:912][  0]LogMemory: Process Physical Memory: 102.34 MB used, 102.34 MB peak
+[2019.04.22-06.08.42:912][  0]LogMemory: Process Virtual Memory: 84.42 MB used, 84.42 MB peak
+[2019.04.22-06.08.42:912][  0]LogMemory: Physical Memory: 3053.50 MB used,  5047.37 MB free, 8100.87 MB total
+[2019.04.22-06.08.42:912][  0]LogMemory: Virtual Memory: 4629.01 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.04.22-06.08.42:931][  0]LogInit: Using OS detected language (ja-JP).
+[2019.04.22-06.08.42:931][  0]LogInit: Using OS detected locale (ja-JP).
+[2019.04.22-06.08.42:931][  0]LogTextLocalizationManager: No specific localization for 'ja-JP' exists, so the 'ja' localization will be used.
+[2019.04.22-06.08.43:349][  0]LogStreaming: Display: Took  0.418s to InitEngineTextLocalization.
+[2019.04.22-06.08.43:349][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.22-06.08.43:379][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.22-06.08.43:379][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.22-06.08.43:637][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.22-06.08.43:637][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.22-06.08.43:646][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2019.04.22-06.08.43:646][  0]LogD3D11RHI:       128/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.22-06.08.43:649][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.22-06.08.43:649][  0]LogD3D11RHI:       0/0/4050 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.22-06.08.43:649][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.22-06.08.43:656][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.22-06.08.43:656][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.22-06.08.43:656][  0]LogWindows: EnumDisplayDevices:
+[2019.04.22-06.08.43:656][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2019.04.22-06.08.43:656][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.04.22-06.08.43:657][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2019.04.22-06.08.43:657][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.04.22-06.08.43:657][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2019.04.22-06.08.43:657][  0]LogD3D11RHI:   Driver Version: 21.20.16.4550 (internal:21.20.16.4550, unified:21.20.16.4550)
+[2019.04.22-06.08.43:657][  0]LogD3D11RHI:      Driver Date: 11-11-2016
+[2019.04.22-06.08.43:657][  0]LogRHI: Texture pool is 1507 MB (70% of 2153 MB)
+[2019.04.22-06.08.43:684][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2019.04.22-06.08.43:684][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.22-06.08.43:691][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2019.04.22-06.08.44:156][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.22-06.08.44:171][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.22-06.08.44:193][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.22-06.08.44:216][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.22-06.08.44:239][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.22-06.08.44:268][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.22-06.08.44:296][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.22-06.08.44:325][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.22-06.08.44:339][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.22-06.08.44:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:467][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:468][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.22-06.08.44:469][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.22-06.08.44:540][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.22-06.08.44:540][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.22-06.08.44:570][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.22-06.08.44:570][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.22-06.08.44:583][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.22-06.08.44:599][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.22-06.08.44:615][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.22-06.08.44:634][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.22-06.08.44:692][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.22-06.08.44:692][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.22-06.08.44:693][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.22-06.08.44:757][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../../Users/shinoda/Desktop/GameROOK/Intermediate/Shaders/WorkingDirectory/14024/).
+[2019.04.22-06.08.44:757][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/shinoda/AppData/Local/Temp/UnrealShaderWorkingDir/DAE5E43843AACDA743A5E0B54AB302C8/'.
+[2019.04.22-06.08.44:760][  0]LogXGEController: Cleaning working directory: C:/Users/shinoda/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.22-06.08.44:760][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.22-06.08.44:760][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.22-06.08.44:760][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.22-06.08.45:339][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.22-06.08.45:398][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/shinoda/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.22-06.08.45:398][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/shinoda/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.22-06.08.45:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/shinoda/Desktop/GameROOK/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.22-06.08.45:398][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.22-06.08.45:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/shinoda/Desktop/GameROOK/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.22-06.08.45:398][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.22-06.08.45:415][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.22-06.08.45:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.22-06.08.45:415][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.22-06.08.45:428][  0]LogDerivedDataCache: Using Local data cache path C:/Users/shinoda/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.22-06.08.45:428][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.22-06.08.45:428][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.22-06.08.45:460][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.22-06.08.45:463][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.22-06.08.45:463][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.22-06.08.45:554][  0]LogAssetRegistry: FAssetRegistry took 0.0344 seconds to start up
+[2019.04.22-06.08.45:961][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.22-06.08.46:133][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.22-06.08.46:137][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.22-06.08.46:137][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.22-06.08.46:137][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.22-06.08.46:137][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.22-06.08.46:155][  0]LogNetVersion: Prototype_1_00 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3518137966)
+[2019.04.22-06.08.46:810][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.129965 seconds
+[2019.04.22-06.08.46:822][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.22-06.08.46:822][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.22-06.08.46:822][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.22-06.08.47:723][  0]LogMaterial: Display: Missing cached shader map for material BaseColor, compiling. 
+[2019.04.22-06.08.47:723][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:723][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:762][  0]LogMaterial: Display: Missing cached shader map for material LightingModel, compiling. 
+[2019.04.22-06.08.47:762][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\LightingModel.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:762][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:766][  0]LogMaterial: Display: Missing cached shader map for material MaterialAO, compiling. 
+[2019.04.22-06.08.47:766][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\MaterialAO.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:766][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:770][  0]LogMaterial: Display: Missing cached shader map for material Metallic, compiling. 
+[2019.04.22-06.08.47:771][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Metallic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:771][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:775][  0]LogMaterial: Display: Missing cached shader map for material Opacity, compiling. 
+[2019.04.22-06.08.47:775][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Opacity.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:775][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:779][  0]LogMaterial: Display: Missing cached shader map for material Roughness, compiling. 
+[2019.04.22-06.08.47:780][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Roughness.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:780][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:809][  0]LogMaterial: Display: Missing cached shader map for material Specular, compiling. 
+[2019.04.22-06.08.47:809][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\Specular.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:809][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:813][  0]LogMaterial: Display: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2019.04.22-06.08.47:813][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\SubsurfaceColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:813][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:818][  0]LogMaterial: Display: Missing cached shader map for material WorldNormal, compiling. 
+[2019.04.22-06.08.47:819][  0]LogMaterial: Warning: C:\Program Files\Epic Games\UE_4.21\Engine\Content\BufferVisualization\WorldNormal.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.04.22-06.08.47:819][  0]LogMaterial: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2019.04.22-06.08.47:885][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.22-06.08.47:899][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.22-06.08.48:603][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.08.48:603][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.08.48:604][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.08.48:605][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.08.48:802][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.22-06.08.48:855][  0]LogOcInput: OculusInput pre-init called
+[2019.04.22-06.08.48:997][  0]LogEngine: Initializing Engine...
+[2019.04.22-06.08.48:998][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.22-06.08.49:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.22-06.08.49:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.22-06.08.49:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.22-06.08.49:000][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.22-06.08.49:260][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.22-06.08.49:276][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.22-06.08.49:285][  0]LogInit: XAudio2 using 'スピーカー (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.22-06.08.49:413][  0]LogInit: FAudioDevice initialized.
+[2019.04.22-06.08.49:413][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.22-06.08.49:583][  0]LogDerivedDataCache: Saved boot cache 0.17s 74MB C:/Users/shinoda/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.22-06.08.49:596][  0]LogInit: Texture streaming: Enabled
+[2019.04.22-06.08.49:617][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.22-06.08.49:617][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={1230EFF8-43E3-D885-0E6E-4F8953580C5B}
+[2019.04.22-06.08.49:633][  0]LogInit: Transaction tracking system initialized
+[2019.04.22-06.08.49:669][  0]BlueprintLog: New page: エディタの読み込み
+[2019.04.22-06.08.49:767][  0]LocalizationService: ローカライズのサービスが無効になりました
+[2019.04.22-06.08.50:437][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.22-06.08.50:437][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.22-06.08.50:437][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.22-06.08.50:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.22-06.08.50:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.22-06.08.50:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.22-06.08.50:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.22-06.08.50:608][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/' took 0.04s
+[2019.04.22-06.08.50:608][  0]SourceControl: ソースコントロールは無効です
+[2019.04.22-06.08.50:608][  0]Cmd: MAP LOAD FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Title_Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-06.08.50:609][  0]LightingResults: New page: ライティングのビルド
+[2019.04.22-06.08.50:612][  0]MapCheck: New page: マップをチェック
+[2019.04.22-06.08.50:612][  0]LightingResults: New page: <何も選択されていません>
+[2019.04.22-06.08.50:895][  0]LogAIModule: Creating AISystem for world Title_Map
+[2019.04.22-06.08.50:899][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Map/Reflection_Map) is flushing async loading
+[2019.04.22-06.08.50:899][  0]LogStreaming: Display: Flushing async loaders.
+[2019.04.22-06.08.51:812][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-06.08.52:044][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-06.08.52:044][  0]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/Map/Reflection_Of_Light' which isn't loaded.
+[2019.04.22-06.08.52:045][  0]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.415ミリ秒かかりました。
+[2019.04.22-06.08.52:045][  0]LogFileHelpers: Loading map 'Title_Map' took 1.437
+[2019.04.22-06.08.52:188][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.08.52:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.08.52:214][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.08.52:223][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.22-06.08.52:232][  0]LogCollectionManager: Loaded 0 collections in 0.002920 seconds
+[2019.04.22-06.08.52:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Saved/Collections/' took 0.01s
+[2019.04.22-06.08.52:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/Developers/shinoda/Collections/' took 0.00s
+[2019.04.22-06.08.52:253][  0]LogFileCache: Scanning file cache for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/Collections/' took 0.00s
+[2019.04.22-06.08.52:253][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.22-06.08.52:266][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 2651 classes and 620 folders.
+[2019.04.22-06.08.52:274][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-06.08.52:275][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:276][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:279][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:280][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.22-06.08.52:324][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-06.08.52:329][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.22-06.08.52:373][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.22-06.08.52:373][  0]LogLoad: (Engine Initialization) Total time: 11.17 seconds
+[2019.04.22-06.08.52:373][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.22-06.08.52:388][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2019.04.22-06.08.52:469][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.22-06.08.52:471][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.22-06.08.52:472][  0]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Regular.otf' (707K)
+[2019.04.22-06.08.52:473][  0]LogSlate: Took 0.000456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Bold.otf' (698K)
+[2019.04.22-06.08.52:473][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.22-06.08.52:476][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.22-06.08.52:595][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.22-06.08.53:003][  2]LogRenderer: Reallocating scene render targets to support 676x284 Format 10 NumSamples 1 (Frame:1).
+[2019.04.22-06.08.53:844][  3]LogAssetRegistry: Asset discovery search completed in 8.3127 seconds
+[2019.04.22-06.08.53:847][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.22-06.08.53:847][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.04.22-06.08.56:080][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.08.56:262][ 93]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.22-06.08.56:264][ 93]LogSlate: Took 0.001424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2019.04.22-06.08.56:397][ 93]LogAIModule: Creating AISystem for world Reflection_Remake
+[2019.04.22-06.08.56:411][ 93]LogAssetEditorManager: Opening Asset editor for World /Game/Map/Reflection_Remake.Reflection_Remake
+[2019.04.22-06.08.56:531][ 93]Cmd: MAP LOAD FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.22-06.08.56:531][ 93]LightingResults: New page: ライティングのビルド
+[2019.04.22-06.08.56:532][ 93]LoadErrors: New page: マップをロード中: Reflection_Remake.umap
+[2019.04.22-06.08.56:534][ 93]MapCheck: New page: マップをチェック
+[2019.04.22-06.08.56:534][ 93]LightingResults: New page: <何も選択されていません>
+[2019.04.22-06.08.56:598][ 93]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.22-06.08.56:673][ 93]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.22-06.08.56:673][ 93]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.159ミリ秒かかりました。
+[2019.04.22-06.08.56:673][ 93]LogFileHelpers: Loading map 'Reflection_Remake' took 0.144
+[2019.04.22-06.08.57:625][137]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/shinoda/Desktop/GameROOK/Content/' took 5.22s
+[2019.04.22-06.09.00:425][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.09.00:501][280]LogRenderer: Reallocating scene render targets to support 680x284 Format 10 NumSamples 1 (Frame:188).
+[2019.04.22-06.09.22:459][187]LogStaticMesh: スタティックメッシュ SM_Slums_Wall_02n をビルド中...
+[2019.04.22-06.09.22:509][187]LogStaticMesh: Built static mesh [0.05s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Wall_02n.SM_Slums_Wall_02n
+[2019.04.22-06.09.23:318][278]LogActorFactory: Actor Factory created SM_Slums_Wall_02n
+[2019.04.22-06.09.24:177][321]LogActorFactory: Actor Factory created SM_Slums_Wall_02n
+[2019.04.22-06.09.31:913][720]Cmd: DELETE
+[2019.04.22-06.09.31:913][720]Cmd: ACTOR DELETE
+[2019.04.22-06.09.31:920][720]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.22-06.09.31:948][720]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.04.22-06.09.33:240][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.09.33:845][829]LogActorFactory: Actor Factory created SM_Slums_Wall_02l
+[2019.04.22-06.09.35:542][927]LogActorFactory: Actor Factory created SM_Slums_Wall_02l
+[2019.04.22-06.09.35:980][947]Cmd: DELETE
+[2019.04.22-06.09.35:980][947]Cmd: ACTOR DELETE
+[2019.04.22-06.09.35:986][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.22-06.09.36:020][947]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.04.22-06.09.37:774][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.09.40:570][246]LogStaticMesh: スタティックメッシュ SM_Slums_Wall_02_Capped をビルド中...
+[2019.04.22-06.09.40:601][246]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Wall_02_Capped.SM_Slums_Wall_02_Capped
+[2019.04.22-06.09.40:928][258]LogActorFactory: Actor Factory created SM_Slums_Wall_02_Capped
+[2019.04.22-06.09.42:489][346]LogActorFactory: Actor Factory created SM_Slums_Wall_02_Capped
+[2019.04.22-06.09.43:915][415]Cmd: DELETE
+[2019.04.22-06.09.43:915][415]Cmd: ACTOR DELETE
+[2019.04.22-06.09.43:923][415]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.22-06.09.43:955][415]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.04.22-06.09.45:145][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.09.47:670][671]LogStaticMesh: スタティックメッシュ SM_Slums_Wall_02f をビルド中...
+[2019.04.22-06.09.47:703][671]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Wall_02f.SM_Slums_Wall_02f
+[2019.04.22-06.09.48:097][712]LogActorFactory: Actor Factory created SM_Slums_Wall_02f
+[2019.04.22-06.09.51:925][934]LogActorFactory: Actor Factory created SM_Slums_Wall_02f
+[2019.04.22-06.10.12:968][983]Cmd: DELETE
+[2019.04.22-06.10.12:968][983]Cmd: ACTOR DELETE
+[2019.04.22-06.10.12:978][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.22-06.10.13:024][983]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2019.04.22-06.10.13:666][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.10.13:725][  2]LogStaticMesh: スタティックメッシュ SM_Slums_Wall_02g をビルド中...
+[2019.04.22-06.10.13:751][  2]LogStaticMesh: Built static mesh [0.03s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Wall_02g.SM_Slums_Wall_02g
+[2019.04.22-06.10.28:978][653]LogActorFactory: Actor Factory created SM_Slums_Wall_02i
+[2019.04.22-06.10.31:934][822]LogActorFactory: Actor Factory created SM_Slums_Wall_02i
+[2019.04.22-06.10.42:699][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.10.47:588][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.10.52:337][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.10.52:346][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.22-06.10.52:538][820]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake2EF55A7149AEFFCA220AF6B557E594E9.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap'
+[2019.04.22-06.10.52:586][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake_BuiltData" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset" SILENT=true
+[2019.04.22-06.10.52:752][820]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake_BuiltDataACB8622246D4DB209A6DCD812F943A80.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset'
+[2019.04.22-06.10.59:922][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.10.59:931][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.22-06.11.00:114][130]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake3E5267E841DE8BFEF9C7B8BB00CBEB51.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap'
+[2019.04.22-06.11.00:159][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake_BuiltData" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset" SILENT=true
+[2019.04.22-06.11.00:293][130]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake_BuiltData4DE15E8F4CCF7A6F6DD390A2A2BB1459.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset'
+[2019.04.22-06.11.14:508][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.11.15:081][791]LogActorFactory: Actor Factory created SM_Slums_Wall_02h
+[2019.04.22-06.11.18:937][989]LogActorFactory: Actor Factory created SM_Slums_Wall_02h
+[2019.04.22-06.11.20:456][ 67]Cmd: DELETE
+[2019.04.22-06.11.20:456][ 67]Cmd: ACTOR DELETE
+[2019.04.22-06.11.20:465][ 67]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.22-06.11.20:494][ 67]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.04.22-06.11.22:809][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.11.23:032][160]LogStaticMesh: スタティックメッシュ SM_Slums_Wall_02i_02 をビルド中...
+[2019.04.22-06.11.23:046][160]LogStaticMesh: Built static mesh [0.01s] /Game/SoulCity/Environment/Meshes/Building_Slum/SM_Slums_Wall_02i_02.SM_Slums_Wall_02i_02
+[2019.04.22-06.11.23:067][160]LogActorFactory: Actor Factory created SM_Slums_Wall_02i_02
+[2019.04.22-06.11.25:829][318]LogActorFactory: Actor Factory created SM_Slums_Wall_02i_02
+[2019.04.22-06.11.51:923][711]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.11.55:380][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.12.11:642][737]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.22-06.12.11:651][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.22-06.12.11:837][737]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake62CB2B0248339E3CBA7C7283B5FFBBB6.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake.umap'
+[2019.04.22-06.12.11:882][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Reflection_Remake_BuiltData" FILE="../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset" SILENT=true
+[2019.04.22-06.12.12:019][737]LogSavePackage: Moving '../../../../../../Users/shinoda/Desktop/GameROOK/Saved/Reflection_Remake_BuiltData199EE28A48F6FF8292319F92DB1FCB9B.tmp' to '../../../../../../Users/shinoda/Desktop/GameROOK/Content/Map/Reflection_Remake_BuiltData.uasset'
+[2019.04.22-06.12.16:265][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.22-06.12.20:768][162]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
